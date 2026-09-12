@@ -1,10 +1,10 @@
 {
-  "name": "course-directory-student-template",
-  "version": "1.5.0",
-  "description": "Course Catalog Template for Students",
+  "name": "os-intro",
+  "version": "1.0.0",
+  "description": "Операционные системы",
   "main": "index.js",
-  "repository": "git@github.com:yamadharma/course-directory-student-template.git",
-  "author": "Dmitry S. Kulyabov <yamadharma@gmail.com>",
+  "repository": "https://github.com/VladislavSlavinskiy/study_2026-2027_os-intro.git",
+  "author": "Vladislav Slavinskiy <slavinskiy05032006@gmail.com>",
   "license": "CC-BY-4.0",
     "config": {
 	"commitizen": {
